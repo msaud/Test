@@ -1,1 +1,2 @@
 This is test file for CS361 repository 
+Adding a commit from VS Code
